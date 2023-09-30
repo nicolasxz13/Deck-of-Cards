@@ -1,0 +1,14 @@
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\Deck of Cards\bin\Debug\net6.0\Deck of Cards.exe
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\Deck of Cards\bin\Debug\net6.0\Deck of Cards.deps.json
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\Deck of Cards\bin\Debug\net6.0\Deck of Cards.runtimeconfig.json
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\Deck of Cards\bin\Debug\net6.0\Deck of Cards.dll
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\Deck of Cards\bin\Debug\net6.0\Deck of Cards.pdb
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\Deck of Cards\obj\Debug\net6.0\Deck of Cards.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\Deck of Cards\obj\Debug\net6.0\Deck of Cards.AssemblyInfoInputs.cache
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\Deck of Cards\obj\Debug\net6.0\Deck of Cards.AssemblyInfo.cs
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\Deck of Cards\obj\Debug\net6.0\Deck of Cards.csproj.CoreCompileInputs.cache
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\Deck of Cards\obj\Debug\net6.0\Deck of Cards.dll
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\Deck of Cards\obj\Debug\net6.0\refint\Deck of Cards.dll
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\Deck of Cards\obj\Debug\net6.0\Deck of Cards.pdb
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\Deck of Cards\obj\Debug\net6.0\Deck of Cards.genruntimeconfig.cache
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\Deck of Cards\obj\Debug\net6.0\ref\Deck of Cards.dll
